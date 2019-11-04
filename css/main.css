@@ -33,12 +33,20 @@ form {
     justify-content: space-between;
 }
 
-button {
+#add-skill {
     margin-left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    background-color: white; 
+    color: #93C285;
+    border: 2px solid #93C285;
+    border-radius: 0%;
+    /* border: 3px solid #93C285; */
 }
 
-input {
+#input {
     width: auto;
     flex-grow: 1;
+    border: 2px solid #93C285;
 }
 
